@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35c464d5-4b15-4ebe-855b-a96231c7ff63" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-    </list>
+    <list default="true" id="35c464d5-4b15-4ebe-855b-a96231c7ff63" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,12 +135,12 @@
       <workItem from="1589906182086" duration="5092000" />
       <workItem from="1590638714744" duration="599000" />
       <workItem from="1590687760084" duration="4958000" />
-      <workItem from="1594780330389" duration="1238000" />
+      <workItem from="1594780330389" duration="1794000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11887000" />
+    <option name="totallyTimeSpent" value="12443000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
